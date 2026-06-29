@@ -31,30 +31,30 @@ Week3/
 
 ### Practice
 - File line counter
-![output](screenshots/file_count.png)
+![output](Week3/screenshots/file_count.png)
 - Merge text files
-![output](screenshots/merge_files.png)
+![output](Week3/screenshots/merge_files.png)
 - CSV handling using Pandas
-![output](screenshots/pandas_1.png)
-![output](screenshots/pandas_2.png)
+![output](Week3/screenshots/pandas_1.png)
+![output](Week3/screenshots/pandas_2.png)
 - Line graph using Matplotlib
-![output](screenshots/line_graph.png)
+![output](Week3/screenshots/line_graph.png)
 - JSON read/write
-![output](screenshots/json.png)
-![output](screenshots/json_read.png)
+![output](Week3/screenshots/json.png)
+![output](Week3/screenshots/json_read.png)
 
 ### Assignments
 - Bank Account System
-![output](screenshots/bank_account.png)
+![output](Week3/screenshots/bank_account.png)
 - Library Management System
-![output](screenshots/libarary_manage.png)
+![output](Week3/screenshots/libarary_manage.png)
 - Calculator with Exception Handling
-![output](screenshots/calculator.png)
+![output](Week3/screenshots/calculator.png)
 
 ### Mini Project
 - Billing System using Object-Oriented Programming
-![output](screenshots/billing_1.png)
-![output](screenshots/billing_2.png)
+![output](Week3/screenshots/billing_1.png)
+![output](Week3/screenshots/billing_2.png)
 ## Tools Used
 
 - Python 3
